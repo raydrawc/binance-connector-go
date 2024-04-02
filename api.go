@@ -2,8 +2,8 @@ package binance_connector_go
 
 import (
 	"encoding/json"
-	"github.com/raydrawc/binance-connector-go.git/model"
-	"github.com/raydrawc/binance-connector-go.git/utils/http"
+	"github.com/raydrawc/binance-connector-go/model"
+	"github.com/raydrawc/binance-connector-go/utils/http"
 )
 
 func (c *Client) GetSrvTime() (int64, error) {

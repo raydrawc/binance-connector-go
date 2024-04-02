@@ -1,7 +1,7 @@
 package binance_connector_go
 
 import (
-	"github.com/raydrawc/binance-connector-go.git/model"
+	"github.com/raydrawc/binance-connector-go/model"
 	"testing"
 )
 

@@ -1,4 +1,4 @@
-module github.com/raydrawc/binance-connector-go.git
+module github.com/raydrawc/binance-connector-go
 
 go 1.21
 
